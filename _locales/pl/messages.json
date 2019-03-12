@@ -1,0 +1,8 @@
+{
+	"description": {
+		"message": "Odznacza oferty potencjalnie niechcianych programów na stronach WWW"
+	},
+	"warning": {
+		"message": "Próbujesz zainstalować potencjalnie niechciany program. Na pewno chcesz kontynuować?"
+	}
+}
